@@ -1,0 +1,10 @@
+1.- move "libbgi.a" to filesProgram/CodeBlocks/MinGW/lib
+2.- settings, Linker settings, add "libbgi.a"
+3.- other linker options add: 
+
+-lbgi
+-lgdi32
+-lcomdlg32
+-luuid
+-loleaut32
+-lole32

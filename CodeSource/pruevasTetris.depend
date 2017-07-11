@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1496794250 source:c:\users\juang\onedrive\documentos\c++\pruevastetris\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"winbgim.h"
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+
+1099886124 c:\users\juang\onedrive\documentos\c++\pruevastetris\winbgim.h
+	<stddef.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+

@@ -1,5 +1,5 @@
 # Tetris-prueva-Gameloft
-Reto que me enviaron para trabajar en Gameloft
+Reto que envia Gameloft al solicitar empleo
 
 ![GitHub Logo](tetris.png)
 
